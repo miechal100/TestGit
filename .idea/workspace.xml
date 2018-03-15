@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87455c3f-b1a5-4827-9c12-ccb7f9f9f07f" name="Default" comment="" />
+    <list default="true" id="87455c3f-b1a5-4827-9c12-ccb7f9f9f07f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainClass.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MainClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
               <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SumTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Test/Sum/SumTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -49,6 +61,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/Test/Sum/SumTest.java" />
       </list>
     </option>
   </component>
@@ -80,6 +93,17 @@
             <path>
               <item name="Gitmed" type="b2602c69:ProjectViewProjectNode" />
               <item name="Gitmed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gitmed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gitmed" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gitmed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gitmed" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Sum" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -264,6 +288,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/Sum/SumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
           <folding />
         </state>
       </provider>
